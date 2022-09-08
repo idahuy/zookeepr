@@ -117,6 +117,17 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Ollie",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
